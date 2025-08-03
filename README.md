@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo Sousa</h1>
 <h3 align="center">A passionate backend developer from Rio de Janeiro</h3>
 
-- 🔭 I’m currently studying at university [42|Rio](https://42.rio/)
+- 🔭 I’m currently studying at university [42|Rio](https://42.rio/).
 
-- 🌱 I’m currently learning **fundamentals of Web Development and Data Analysis/visualization.**
+- 🌱 I’m currently striving to **know how to develop any kind of program**
 
 - 📝 Sometimes write articles on [https://medium.com/@gustavofsousa](https://medium.com/@gustavofsousa)
 
