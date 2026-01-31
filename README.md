@@ -20,10 +20,8 @@ I'm a backend developer evolving into an **AI-Native Product Engineer** — some
 
 Currently working with **.NET microservices** while specializing in **Applied AI** (RAG, Agents, LLMs). My unique edge comes from the intersection of:
 - 🎓 Software Engineering (42 Rio - 1900h of hands-on projects)
-- 🏭 Production Engineering (UFF - process & business mindset)
+- 🏭 Production Engineering (UFF & IESE - process & business mindset)
 - 🤖 Applied AI (specializing in intelligent automation)
-
-**I don't just write code. I build solutions that work.**
 
 ---
 
@@ -35,12 +33,12 @@ Currently working with **.NET microservices** while specializing in **Applied AI
 - Developing **autonomous agents** for process automation
 - Creating full-stack products that solve real problems
 
-### 📚 Learning Path
-- Applied AI Engineering (RAG, Agents, Fine-tuning, Multi-agent systems)
-- System architecture for intelligent applications
-- End-to-end product development
 
----
+### 🎓 Learning in Public
+- Documenting my journey from backend dev to AI-Native Product Engineer
+- Sharing insights on [Medium](https://medium.com/@gustavofsousa) about AI applied to real-world problems
+- Building in public: [check my pinned repos](#)
+
 
 ## 💻 Tech Stack
 
@@ -67,49 +65,11 @@ Currently working with **.NET microservices** while specializing in **Applied AI
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofsousa&layout=compact&theme=dark&hide_border=true)](https://github.com/gustavofsousa)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofsousa&show_icons=true&theme=dark&hide_border=true)](https://github.com/gustavofsousa)
-
-</div>
-
----
-
-## 🌱 Current Projects
-
-### 🤖 AI-Powered Solutions
-- **MCP Implementation**: Integrating legacy systems with AI using Model Context Protocol
-- **RAG Knowledge Base**: Building retrieval-augmented generation systems for domain-specific knowledge
-- **Process Automation**: Creating autonomous agents that handle complex workflows
-
-### 🎓 Learning in Public
-- Documenting my journey from backend dev to AI-Native Product Engineer
-- Sharing insights on [Medium](https://medium.com/@gustavofsousa) about AI applied to real-world problems
-- Building in public: [check my pinned repos](#)
-
----
-
-## 💡 Philosophy
-
-> "Programming is like learning a language: vocabulary (syntax), grammar (logic), and fluency (problem-solving). But the goal isn't to speak beautifully — it's to communicate solutions that matter."
-
-I believe in:
-- 🎯 **Impact over perfection**: shipped beats perfect
-- 🧠 **Full-stack thinking**: understand the problem, not just the code
-- 🤝 **Human-centered tech**: technology serves people, not the opposite
-- 📚 **Continuous learning**: always a student, sometimes a teacher
-
----
-
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [/in/gustavofsousa](https://www.linkedin.com/in/gustavofsousa/)
 - ✍️ **Medium**: [@gustavofsousa](https://medium.com/@gustavofsousa)
-- 📧 **Email**: gfsousa42@gmail.com
+- 📧 **Email**: gustavofsousa.me@gmail.com
 
 **Looking for**: Opportunities to build intelligent solutions that solve real problems. Open to collaborations on AI-powered products, system architecture, and anything that bridges tech with business impact.
 
