@@ -51,7 +51,7 @@ These three projects best represent the technical depth of that journey:
       <h3>ft_transcendence</h3>
       <p>Full-stack real-time multiplayer Pong platform — live gameplay, tournaments, chat, auth, Docker deployment.</p>
       <p><strong>Team project · Final curriculum project</strong></p>
-      <a href="https://github.com/lase-pong-galaticy-walfare">View →</a>
+      <a href="https://github.com/laser-pong-galactic-warfare">View →</a>
     </td>
     <td align="center" width="33%">
       <h3>minishell</h3>
