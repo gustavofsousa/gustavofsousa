@@ -39,39 +39,6 @@ Currently working with **.NET microservices** while specializing in **Applied AI
 
 ---
 
-## 42 School — Highlighted Projects
-
-> 42 Rio de Janeiro is a peer-to-peer, project-based engineering school with no teachers or lectures. 1900+ hours of systems programming, algorithms, DevOps, and fullstack development in C, C++, and JavaScript.
-
-These three projects best represent the technical depth of that journey:
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>ft_transcendence</h3>
-      <p>Full-stack real-time multiplayer Pong platform — live gameplay, tournaments, chat, auth, Docker deployment.</p>
-      <p><strong>Team project · Final curriculum project</strong></p>
-      <a href="https://github.com/laser-pong-galactic-warfare">View →</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>minishell</h3>
-      <p>POSIX shell in C — lexer, parser, built-ins, pipes, redirections, variable expansion, signal handling.</p>
-      <p><strong>C · Systems Programming</strong></p>
-      <a href="https://github.com/gustavofsousa/minishell_42">View →</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>FdF — Fil de Fer</h3>
-      <p>3D wireframe terrain renderer — isometric projection, Bresenham's algorithm, real-time rendering in C.</p>
-      <p><strong>C · Computer Graphics</strong></p>
-      <a href="https://github.com/gustavofsousa/Fdf_42">View →</a>
-    </td>
-  </tr>
-</table>
-
-🔗 [All 42 projects →](https://github.com/42-school-projects)
-
----
-
 ## Tech Stack
 
 ### Backend & Infrastructure
@@ -96,6 +63,14 @@ These three projects best represent the technical depth of that journey:
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 42 School
+
+1900h of systems programming, algorithms, DevOps and fullstack in C, C++ and JavaScript at 42 Rio de Janeiro — peer-to-peer, no teachers, no lectures.
+
+→ [View all projects at @42-school-projects](https://github.com/42-school-projects)
 
 ---
 
